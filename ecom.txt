@@ -1,30 +1,28 @@
 Online E-com website:-
-
 1.Unstructured Database for photos and videos.
 2.Backend.
 3.Server.
 4.user-friendly UI.
 5.Inventory management- Add products,out of stock,number of products.
-
-7.Deals.
-8.Order tracking.
-9.Membership and there benefits
-10.Coupons
-11.Create account
-12.Login window
-13.Search
-14.Categories
-15.Filters- prize, color, brand
-16.Wish list
-17.Add to cart
-18.Buy now
-19.Payment gateway
-20.Customer support
-21.Logout account
-22.Delete account
-23.Chat bot
-24.Reviews
-25.	
+6.Deals.
+7.Order tracking.
+8.Membership and there benefits
+9.Coupons
+10.Create account
+11.Login window
+12.Search
+13.Categories
+14.Filters- prize, color, brand
+15.Wish list
+16.Add to cart
+17.Buy now
+18.Payment gateway
+19.Customer support
+20.Logout account
+21.Delete account
+22.Chat bot
+23.Reviews
+24.	
 
 
 
