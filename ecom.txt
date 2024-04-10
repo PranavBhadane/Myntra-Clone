@@ -5,6 +5,7 @@ Online E-com website:-
 3.Server.
 4.user-friendly UI.
 5.Inventory management- Add products,out of stock,number of products.
+
 7.Deals.
 8.Order tracking.
 9.Membership and there benefits
