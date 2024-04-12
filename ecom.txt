@@ -22,7 +22,7 @@ Online E-com website:-
 21.Delete account
 22.Chat bot
 23.Reviews
-24.	
+24.Complete
 
 
 
