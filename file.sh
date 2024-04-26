@@ -93,3 +93,43 @@ if [ "$num" = "$reverse" ]; then
 else
     echo "$num is not a palindrome."
 fi
+
+
+
+armstrong
+
+#!/bin/bash
+
+read -p "Enter a number: " num
+num_length=${#num}
+sum=0
+
+for (( i=0; i<$num_length; i++ )); do
+    digit=${num:$i:1}
+    sum=$((sum + digit ** num_length))
+done
+
+if [ $sum -eq $num ]; then
+    echo "$num is an Armstrong number."
+else
+    echo "$num is not an Armstrong number."
+fi
+
+
+even odd
+
+#!/bin/bash
+
+read -p "Enter a number: " num
+
+if ((num % 2 == 0)); then
+    echo "$num is even."
+else
+    echo "$num is odd."
+fi
+
+create contenner
+sudo docker build -t <name> .
+
+run container
+sudo docker run --name <name> -d -p 8000:8000 name
